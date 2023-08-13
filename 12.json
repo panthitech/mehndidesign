@@ -1,0 +1,218 @@
+{
+  "bundle_path": "https://d1vzrdgjzuhzv7.cloudfront.net/fullscreen/bundle/",
+  "category_path": "https://d1vzrdgjzuhzv7.cloudfront.net/fullscreen/category_image/",
+  "data": [
+    {
+      "Cat_Name": "Krishna",
+      "Category_image": "664cbd79a2291059cdbb35730bbac04cfcf.png",
+      "CreatedAt": "2023-07-11 16:25:52",
+      "Id": 1140,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1140,
+          "Id": 58676,
+          "GameobjectName": "Krishna",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "86a482b784fa7126ae49f1293fc1694612.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Krishna"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Rakhi",
+      "Category_image": "3654358d9686b164f941bf36c50159301b1.png",
+      "CreatedAt": "2023-07-11 16:27:42",
+      "Id": 1142,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1142,
+          "Id": 58678,
+          "GameobjectName": "Rakhi",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "244345e1d0fadb03a643dedc428b6c279f.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Rakhi"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Bridal Special",
+      "Category_image": "366407bb302aea39d8987e24165f41ab3aa.png",
+      "CreatedAt": "2023-07-03 10:42:31",
+      "Id": 1114,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1114,
+          "Id": 58465,
+          "GameobjectName": "Bridal Special",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "3237e353cf8c0e61ed00f48745433bfea04.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Bridal Special"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Gol Tikki",
+      "Category_image": "6828bb7ab442547c9ba815202a64d1ee672.png",
+      "CreatedAt": "2023-07-03 10:45:50",
+      "Id": 1120,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1120,
+          "Id": 58471,
+          "GameobjectName": "Gol Tikki",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "685d513d11a44acd50be96e9a0261d974b1.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Gol Tikki"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Finger Special",
+      "Category_image": "7495a209a9fc8b12008f5de3eb1a95ddad8.png",
+      "CreatedAt": "2023-07-03 10:43:54",
+      "Id": 1117,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1117,
+          "Id": 58468,
+          "GameobjectName": "Finger Special",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "362558b01dd19dc021de96f9db34c242c84.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Finger Special"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Arm Special",
+      "Category_image": "74074aa10fd77fd5db8229b2260aec5b07b.png",
+      "CreatedAt": "2023-07-03 10:40:14",
+      "Id": 1111,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1111,
+          "Id": 58462,
+          "GameobjectName": "Arm Special",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "8627da72fd9c6f65eca8a7cebdd51a6506a.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Arm Special"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Engagement",
+      "Category_image": "6880c992d758075a1c171f8b7119431e37.png",
+      "CreatedAt": "2023-07-03 10:43:26",
+      "Id": 1116,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1116,
+          "Id": 58467,
+          "GameobjectName": "Engagement",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "45391a41e7f60ba39512ec61200bdc07b9b.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Engagement"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Mahadev",
+      "Category_image": "435f7aeeed99612e12eb7cab65e06ea332f.png",
+      "CreatedAt": "2023-07-11 16:26:16",
+      "Id": 1141,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1141,
+          "Id": 58677,
+          "GameobjectName": "Mahadev",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "3400b0987339b9244664505440227cc06d9.zip",
+          "Theme_Counter": "",
+          "Theme_Info": "",
+          "Theme_lang": "354",
+          "Theme_Name": "Mahadev"
+        }
+      ],
+      "themes_total_count": 1
+    },
+    {
+      "Cat_Name": "Foot Special",
+      "Category_image": "5520487b66a86d376ad0f681aa8b0abe1b5.png",
+      "CreatedAt": "2023-07-03 10:45:19",
+      "Id": 1119,
+      "isAds": false,
+      "themes": [
+        {
+          "App_Version": "",
+          "Cat_Id": 1119,
+          "Id": 58470,
+          "GameobjectName": "Foot Special",
+          "isNewRealise": "false",
+          "Is_Preimum": "0",
+          "SoundName": "",
+          "Theme_Bundle": "735e3aa5a752248be801d9eec363593e236.zip",
+          "Theme_Counter": ""
+        }
+      ]
+    }
+  ]
+}
